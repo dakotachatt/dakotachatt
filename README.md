@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @dakotachatt
-- 👀 I’m interested in ... software development, sports, video games, music
-- 🌱 I’m currently learning ... Java, Swift, Basic Web Dev (HTML, CSS, JS)
+- 👋 Hi, I’m Dakota
+- 👀 I’m interested in ... software development, video games, music
+- 🌱 I’m currently learning ... Java, Swift, web development (HTML, CSS, JS), database design and implementation (SQL/Oracle), UI/UX design
 - 💞️ I’m looking to collaborate on ... Anything that will help further my understanding of software development
-- 📫 How to reach me ... email or LinkedIn
-
-<!---
-dakotachatt/dakotachatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... LinkedIn
