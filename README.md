@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dakota
+- 👋 Hi, I’m Dakota, I am currently in the process of pivoting my career from a drilling/completion engineer to a software development role
 - 👀 I’m interested in ... software development, video games, music, art/drawing, travelling
-- 🌱 I’m currently learning ... Java, Swift, web development (HTML, CSS, JS), database design and implementation (SQL/Oracle), UI/UX design
+- 🌱 I’m currently learning ... Java, Swift, HTML, CSS, Vanilla JS, React, Node/Express, MongoDB, SQL, UI/UX Design
 - 💞️ I’m looking to collaborate on ... Anything that will help further my understanding of software development
 - 📫 How to reach me ... LinkedIn
