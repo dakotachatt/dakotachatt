@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... software development, video games, music, art/drawing, travelling
 - 🌱 I’m currently learning ... Java, Swift, HTML, CSS, Vanilla JS, React, Node/Express, MongoDB, SQL, UI/UX Design
 - 💞️ I’m looking to collaborate on ... Anything that will help further my understanding of software development
-- 📫 How to reach me ... LinkedIn
+- 📫 How to reach me ... https://www.linkedin.com/in/dakota-chatt/
